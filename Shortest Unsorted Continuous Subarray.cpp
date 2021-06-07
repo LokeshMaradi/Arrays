@@ -25,4 +25,5 @@ int main()
  Solution s;
  vector<int> nums{2,5,4,4,3};
  cout<<s.findUnsortedSubarray(nums);
+  return 0;
  }
